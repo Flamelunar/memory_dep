@@ -1,0 +1,190 @@
+# Modified: word_id=12, deprel: advmod:adj->advmod (memory_strength: 0.23, reason: weak memory label)
+1	Thanh	_	PROPN	_	_	7	nsubj	_	_
+2	bắt chuyện	_	VERB	_	_	7	xcomp	_	_
+3	với	_	ADP	_	_	2	compound:dir	_	_
+4	Hùng	_	PROPN	_	_	2	obj	_	_
+5	và	_	CCONJ	_	_	7	cc	_	_
+6	nói	_	VERB	_	_	7	parataxis	_	_
+7	:	_	PUNCT	_	_	7	punct	_	_
+8	"	_	PUNCT	_	_	12	punct	_	_
+9	Tôi	_	PRON	_	_	11	nsubj	_	_
+10	trông	_	VERB	_	_	11	xcomp	_	_
+11	ông	_	NOUN	_	_	10	obj	_	_
+12	quen quen	_	ADV	_	_	10	advmod	_	_
+13	?	_	PUNCT	_	_	11	punct	_	_
+14	"	_	PUNCT	_	_	11	punct	_	_
+15	.	_	PUNCT	_	_	7	punct	_	_
+
+# Modified: word_id=3, head: 14->2 (memory_strength: 1.00, reason: weak memory label)
+# Modified: word_id=4, head: 14->5 (memory_strength: 1.00, reason: weak memory label)
+# Modified: word_id=8, deprel: acl:relcl->acl (memory_strength: 0.00, reason: weak memory label)
+# Modified: word_id=12, head: 14->5 (memory_strength: 1.00, reason: weak memory label)
+1	Hùng	_	PROPN	_	_	2	nsubj	_	_
+2	giật mình	_	VERB	_	_	0	root	_	_
+3	:	_	PUNCT	_	_	2	punct	_	_
+4	"	_	PUNCT	_	_	5	punct	_	_
+5	Sao	_	ADV	_	_	8	advmod	_	_
+6	tôi	_	PRON	_	_	8	nsubj	_	_
+7	không	_	ADV	_	_	8	advmod:neg	_	_
+8	biết	_	VERB	_	_	2	acl	_	_
+9	ông	_	PRON	_	_	8	det:pmod	_	_
+10	nhỉ	_	INTJ	_	_	8	discourse	_	_
+11	?	_	PUNCT	_	_	8	punct	_	_
+12	"	_	PUNCT	_	_	5	punct	_	_
+13	.	_	PUNCT	_	_	2	punct	_	_
+
+# Modified: word_id=5, head: 8->2 (memory_strength: 1.00, reason: weak memory label)
+# Modified: word_id=6, head: 8->2 (memory_strength: 1.00, reason: weak memory label)
+# Modified: word_id=7, head: 8->2, deprel: nsubj->parataxis (memory_strength: 0.86, reason: weak memory label)
+1	Thanh	_	PROPN	_	_	2	nsubj	_	_
+2	quay	_	VERB	_	_	0	root	_	_
+3	sang	_	ADP	_	_	2	compound:dir	_	_
+4	Hùng	_	PROPN	_	_	2	obj	_	_
+5	:	_	PUNCT	_	_	2	punct	_	_
+6	"	_	PUNCT	_	_	2	punct	_	_
+7	ông	_	NOUN	_	_	2	parataxis	_	_
+8	quê	_	NOUN	_	_	2	parataxis	_	_
+9	đâu	_	PRON	_	_	8	det:pmod	_	_
+10	nhỉ	_	INTJ	_	_	9	discourse	_	_
+11	?	_	PUNCT	_	_	2	punct	_	_
+
+1	À	INTJ	3	discourse
+2	,	PUNCT	1	punct
+3	tôi	PRON	5	nsubj
+4	còn	ADV	5	advmod
+5	có	VERB	0	root
+6	danh sách	NOUN	5	obj
+7	lớp	NOUN	6	nmod
+8	đây	PART	5	discourse
+9	này	PART	5	discourse
+10	"	PUNCT	5	punct
+11	.	PUNCT	5	punct
+
+# Modified: word_id=4, head: 4->12 (memory_strength: 0.23, reason: weak memory label)
+# Modified: word_id=5, head: 4->12 (memory_strength: 0.79, reason: weak memory label)
+# Modified: word_id=7, head: 4->12 (memory_strength: 0.23, reason: weak memory label)
+# Modified: word_id=8, deprel: advmod:adj->advmod (memory_strength: 0.23, reason: weak memory label)
+1	Nói	_	VERB	_	_	4	advcl	_	_
+2	rồi	_	SCONJ	_	_	4	punct	_	_
+3	Thanh	_	PROPN	_	_	4	nsubj	_	_
+4	giở	_	VERB	_	_	12	parataxis	_	_
+5	danh sách	_	NOUN	_	_	12	obj	_	_
+6	lớp	_	NOUN	_	_	5	nmod	_	_
+7	đọc	_	VERB	_	_	12	parataxis	_	_
+8	vanh vách	_	ADV	_	_	7	advmod	_	_
+9	tên tuổi	_	ADJ	_	_	7	advmod:adj	_	_
+10	,	_	PUNCT	_	_	4	punct	_	_
+11	địa chỉ	_	NOUN	_	_	14	nmod	_	_
+12	,	_	PUNCT	_	_	10	punct	_	_
+13	điện thoại	_	NOUN	_	_	14	nmod	_	_
+14	của	_	ADP	_	_	15	case	_	_
+15	Hùng	_	PROPN	_	_	14	nmod	_	_
+16	.	_	PUNCT	_	_	4	punct	_	_
+
+# Modified: word_id=11, deprel: acl:relcl->acl (memory_strength: 0.00, reason: weak memory label)
+# Modified: word_id=14, deprel: det:pmod->det (memory_strength: 0.49, reason: weak memory label)
+# Modified: word_id=16, deprel: det:pmod->det (memory_strength: 0.49, reason: weak memory label)
+1	Có lẽ	_	ADV	_	_	2	advmod	_	_
+2	vì	_	SCONJ	_	_	4	mark	_	_
+3	lịch sự	_	ADJ	_	_	2	advmod	_	_
+4	Hùng	_	PROPN	_	_	6	nsubj	_	_
+5	cũng	_	ADV	_	_	6	advmod	_	_
+6	nói	_	VERB	_	_	0	root	_	_
+7	:	_	PUNCT	_	_	6	punct	_	_
+8	"	_	PUNCT	_	_	13	punct	_	_
+9	Tôi	_	PRON	_	_	11	nsubj	_	_
+10	cũng	_	ADV	_	_	11	advmod	_	_
+11	thấy	_	VERB	_	_	6	acl	_	_
+12	hình như	_	ADV	_	_	11	advmod	_	_
+13	gặp	_	VERB	_	_	11	xcomp	_	_
+14	ông	_	PRON	_	_	13	det	_	_
+15	ở	_	VERB	_	_	13	xcomp	_	_
+16	đâu	_	PRON	_	_	15	det	_	_
+17	"	_	PUNCT	_	_	11	punct	_	_
+18	.	_	PUNCT	_	_	6	punct	_	_
+
+# Modified: word_id=2, deprel: acl:relcl->acl (memory_strength: 0.00, reason: weak memory label)
+# Modified: word_id=10, deprel: acl:relcl->xcomp (memory_strength: 0.00, reason: weak memory label)
+# Modified: word_id=13, deprel: acl:relcl->dobj (memory_strength: 0.00, reason: weak memory label)
+1	Như	_	ADP	_	_	14	advmod	_	_
+2	dự đoán	_	VERB	_	_	14	acl	_	_
+3	của	_	ADP	_	_	2	case	_	_
+4	Thanh	_	PROPN	_	_	2	nsubj	_	_
+5	,	_	PUNCT	_	_	14	punct	_	_
+6	mấy	_	NUM	_	_	6	nummod	_	_
+7	hôm	_	NOUN	_	_	6	nmod:tmod	_	_
+8	sau	_	ADP	_	_	7	case	_	_
+9	Hùng	_	PROPN	_	_	14	nsubj	_	_
+10	gặp	_	VERB	_	_	14	xcomp	_	_
+11	bà	_	PRON	_	_	10	obj	_	_
+12	Loan	_	PROPN	_	_	11	nmod	_	_
+13	chuyện	_	NOUN	_	_	14	dobj	_	_
+14	.	_	PUNCT	_	_	14	punct	_	_
+
+# Modified: word_id=2, deprel: advmod:tense->advmod (memory_strength: 0.00, reason: weak memory label)
+# Modified: word_id=8, deprel: acl:relcl->acl (memory_strength: 0.00, reason: weak memory label)
+# Modified: word_id=11, deprel: acl:relcl->xcomp (memory_strength: 0.00, reason: weak memory label)
+1	Có lẽ	_	ADV	_	_	2	advmod	_	_
+2	đã	_	ADV	_	_	3	advmod	_	_
+3	thấy	_	VERB	_	_	0	root	_	_
+4	đủ	_	ADJ	_	_	3	xcomp	_	_
+5	,	_	PUNCT	_	_	3	punct	_	_
+6	bà	_	NOUN	_	_	10	nmod	_	_
+7	Loan	_	NOUN	_	_	6	name	_	_
+8	xách	_	VERB	_	_	10	acl	_	_
+9	túi	_	NOUN	_	_	8	obj	_	_
+10	đi	_	VERB	_	_	3	conj	_	_
+11	ra	_	VERB	_	_	10	xcomp	_	_
+12	với	_	ADP	_	_	14	case	_	_
+13	cả	_	ADV	_	_	14	advmod	_	_
+14	ban nhạc	_	NOUN	_	_	10	obl	_	_
+15	trong	_	ADP	_	_	16	case	_	_
+16	lòng	_	NOUN	_	_	14	obl	_	_
+17	.	_	PUNCT	_	_	3	punct	_	_
+
+# Modified: word_id=11, head: 10->8 (memory_strength: 0.00, reason: weak memory label)
+# Modified: word_id=19, head: 17->18 (memory_strength: 0.44, reason: weak memory label)
+1	Theo	_	ADP	_	_	10	acl:relcl	_	_
+2	chân	_	NOUN	_	_	10	obj	_	_
+4	万	_	NOUN	_	_	2	flat:foreign	_	_
+5	,	_	PUNCT	_	_	10	punct	_	_
+7	đã	_	ADV	_	_	10	advmod	_	_
+8	chứng	_	VERB	_	_	0	root	_	_
+9	kiến	_	VERB	_	_	8	aux	_	_
+10	con	_	NOUN	_	_	8	obj	_	_
+11	đường	_	NOUN	_	_	8	acl:relcl	_	_
+12	vận	_	NOUN	_	_	11	acl	_	_
+13	transfer	_	NOUN	_	_	12	acl	_	_
+14	hàng	_	NOUN	_	_	13	acl	_	_
+15	lậu	_	ADJ	_	_	14	advmod:adj	_	_
+16	đầy	_	ADJ	_	_	15	advmod:adj	_	_
+17	sôi	_	NOUN	_	_	16	compound	_	_
+18	动	_	VERB	_	_	17	acl	_	_
+19	和	_	CCONJ	_	_	18	cc	_	_
+20	cũng	_	ADV	_	_	18	advmod	_	_
+21	不	_	ADV	_	_	20	advmod:neg	_	_
+22	如	_	ADV	_	_	20	advmod	_	_
+23	此	_	ADJ	_	_	22	advmod:adj	_	_
+24	,	_	PUNCT	_	_	10	punct	_	_
+25	复杂	_	ADJ	_	_	18	conj	_	_
+26	的	_	_	_	_	25	mark:rel	_	_
+27	路线	_	NOUN	_	_	10	obj	_	_
+28	.	_	PUNCT	_	_	10	punct	_	_
+
+# Modified: word_id=8, deprel: advmod:adj->advmod (memory_strength: 0.23, reason: weak memory label)
+# Modified: word_id=9, head: 8->7 (memory_strength: 0.79, reason: weak memory label)
+1	Thanh	_	PROPN	_	_	2	nsubj	_	_
+2	vỗ	_	VERB	_	_	0	root	_	_
+3	đùi	_	NOUN	_	_	2	obj	_	_
+4	đánh	_	VERB	_	_	2	xcomp	_	_
+5	đét	_	ADJ	_	_	4	xcomp	_	_
+6	rồi	_	SCONJ	_	_	7	cc	_	_
+7	hô	_	VERB	_	_	2	conj	_	_
+8	váng	_	ADV	_	_	7	advmod	_	_
+9	nhà	_	NOUN	_	_	7	obj	_	_
+10	:	_	PUNCT	_	_	13	punct	_	_
+11	"	_	PUNCT	_	_	13	punct	_	_
+12	Thôi	_	PART	_	_	13	discourse	_	_
+13	chết	_	VERB	_	_	2	parataxis	_	_
+14	rồi	_	PART	_	_	13	discourse	_	_
+15	!	_	PUNCT	_	_	2	punct	_	_
